@@ -1,2 +1,3 @@
 # markov-chains
-Could be made public
+
+Unoptimised implementation of Markov Chains in Python.
